@@ -1,0 +1,17 @@
+span {
+    font-weight: bold;
+    background: rgb(216, 100, 100);
+    padding: .3em .8em;
+    cursor: pointer;
+}
+
+.play-container {
+    padding: 3em;
+    border: 1px solid rgb(216, 111, 111);
+    margin-bottom: 1em;
+
+    input {
+        padding: 1em;
+        margin-bottom: 2em;
+    }
+}
